@@ -4,9 +4,9 @@
 
 Yoshiaki Yasumizu, M.D.
 
-<a href="https://www.facebook.com/yoshiaki.yasumizu"><i class="svg-icon facebook"></i></a>
+<!-- <a href="https://www.facebook.com/yoshiaki.yasumizu"><i class="svg-icon facebook"></i></a>
 <a href="https://github.com/yyoshiaki"><i class="svg-icon github"></i></a>
-<a href="https://www.twitter.com/yyoshiaki"><i class="svg-icon twitter"></i></a>
+<a href="https://www.twitter.com/yyoshiaki"><i class="svg-icon twitter"></i></a> -->
 
 ## プロフィール
 
