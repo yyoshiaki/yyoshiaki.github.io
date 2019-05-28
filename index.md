@@ -1,5 +1,4 @@
-# Profile | Yoshiaki Yasumizu, M.D.
-
+# Profile
 安水 良明
 
 Yoshiaki Yasumizu, M.D.
