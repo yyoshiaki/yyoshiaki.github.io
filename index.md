@@ -34,14 +34,14 @@ Yoshiaki Yasumizu, M.D.
 ## publications
 
 - Innate Myeloid Cell Subset-Specific Gene Expression Patterns in the Human Colon are Altered in Crohn’s Disease Patients. Digestion (2018). (co-first)
-- **安水良明** 「Pythonで医学に貢献を」 実験医学 Vol. 37 No. 4 (2019)
+- **安水良明** 「Pythonで医学に貢献を」 実験医学 Vol. 37 No. 4 (2019) [(link)](https://www.yodosha.co.jp/jikkenigaku/opinion/vol37n4.html)
 - 大倉永也、**安水良明** 「Treg分化におけるエピゲノムの役割」医学のあゆみ Vol. 268 No. 13 (2019)
 
 ## その他
 
 - 2018年 2月 大阪大学医学部医学系研究科 遺伝統計学教室 (岡田研) インターン
 - 2018年 3月 Bonn 大学（ドイツ）Genomics and Immnoregulation 教室（J. Schultze Lab）インターン
-- 2019年 3月 DBCLSインターン
+- 2019年 3月 DBCLSインターン (坊農先生)
 
 
 ## 学会
