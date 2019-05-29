@@ -9,10 +9,10 @@ Yoshiaki Yasumizu, M.D.
 
 ## プロフィール
 
-- 2019年3月 大阪大学 医学部医学科卒業
-- 2019年3月 大阪大学 MD研究者育成プログラム 修了 (坂口研)
-- 2019年4月　国家公務員共済組合連合会　大手前病院　初期研修医
-- 2019年4月　大阪大学　免疫学フロンティア研究センター　実験免疫学　招へい研究員
+- 2019年 3月 大阪大学 医学部医学科卒業
+- 2019年 3月 大阪大学 MD研究者育成プログラム 修了 (坂口研)
+- 2019年 4月 -　国家公務員共済組合連合会　大手前病院　初期研修医
+- 2019年 4月 -　大阪大学　免疫学フロンティア研究センター　実験免疫学　招へい研究員
 
 ## 受賞等
 
@@ -36,14 +36,17 @@ Yoshiaki Yasumizu, M.D.
 
 ## publications
 
-- Innate Myeloid Cell Subset-Specific Gene Expression Patterns in the Human Colon are Altered in Crohn’s Disease Patients. Digestion (2018). (co-first)
+- Innate Myeloid Cell Subset-Specific Gene Expression Patterns in the Human Colon are Altered in Crohn’s Disease Patients. *Digestion* (2018). (co-first)
 - **安水良明** 「Pythonで医学に貢献を」 実験医学 Vol. 37 No. 4 (2019) [(link)](https://www.yodosha.co.jp/jikkenigaku/opinion/vol37n4.html)
 - 大倉永也、**安水良明** 「Treg分化におけるエピゲノムの役割」医学のあゆみ Vol. 268 No. 13 (2019)
 
 ## その他
 
+- 2017年 4月 阪医Python会 設立 [(link)](https://pythonoum.wordpress.com/)
+- 2017年 4月 - 2018年 3月 AIMS -AIメディカル研究会- 幹部 [(link)](https://ai-medical.github.io/)
 - 2018年 2月 大阪大学医学部医学系研究科 遺伝統計学教室 (岡田研) インターン
 - 2018年 3月 Bonn 大学（ドイツ）Genomics and Immnoregulation 教室（J. Schultze Lab）インターン
+
 - 2019年 3月 DBCLSインターン (坊農先生)
 
 
