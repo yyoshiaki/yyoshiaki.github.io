@@ -7,6 +7,9 @@ Yoshiaki Yasumizu, M.D.
 <a href="https://github.com/yyoshiaki"><i class="svg-icon github"></i></a>
 <a href="https://www.twitter.com/yyoshiaki"><i class="svg-icon twitter"></i></a> -->
 
+<a href="https://github.com/yyoshiaki"><img src="icons/github.svg" alt="github" border="0"></a>
+<a href="https://www.twitter.com/yyoshiaki"><img src="icons/twitter.svg" alt="github" border="0"></a>
+
 ## プロフィール
 
 - 2019年3月 大阪大学 医学部医学科卒業
