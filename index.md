@@ -1,13 +1,10 @@
 # Profile
+
 安水 良明
 
 Yoshiaki Yasumizu, M.D.
 
-<!-- <a href="https://www.facebook.com/yoshiaki.yasumizu"><i class="svg-icon facebook"></i></a>
-<a href="https://github.com/yyoshiaki"><i class="svg-icon github"></i></a>
-<a href="https://www.twitter.com/yyoshiaki"><i class="svg-icon twitter"></i></a> -->
-
-<a href="https://github.com/yyoshiaki"><img src="icons/github.svg" alt="github" border="0" width="32" height="32"></a>
+<a href="https://github.com/yyoshiaki"><img src="icons/github.svg" alt="github" border="0" width="30" height="30"></a>
 <a href="https://www.twitter.com/yyoshiaki"><img src="icons/twitter.svg" alt="github" border="0" width="32" height="32"></a>
 
 ## プロフィール
