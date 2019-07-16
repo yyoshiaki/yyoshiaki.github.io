@@ -1,6 +1,5 @@
 theme: jekyll-theme-cayman
 title: Yoshiaki Yasumizu
 google_analytics: UA-141062523-1
-
 plugins:
-– jekyll-sitemap
+  – jekyll-sitemap
