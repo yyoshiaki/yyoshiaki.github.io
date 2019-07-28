@@ -20,7 +20,7 @@ Yoshiaki Yasumizu
 - 2017年 7月 第19回　免疫サマースクール 2017 in 湘南　優秀発表賞 「制御性T細胞特異的エピゲノムと自己免疫疾患との関連」
 - 2017年 12月 「2017 年度世界をリードする次世代 MD 研究者・育成プロジェクト全国リトリート」口頭発表（最優秀口頭発表賞）
 - 2017年 12月 「バイオインフォマティクス技術者認定試験」合格（首席）
-- 2018年 2月 Bioinformatics Contest 2018（ロシア ITMO 大学主催）18位 入賞
+- 2018年 2月 Bioinformatics Contest 2018（ロシア ITMO 大学主催）18位 入賞
 - 2018年 9月 Kaggle 「Home Credit Default Risk」Silver medal
 - 2019年 5月 「第60回日本神経学会学術大会」一般演題優秀口演賞 「Multi-layer omics analysis reveals myasthenia gravis specific neuronal molecular regulation pattern.」
 
@@ -33,12 +33,17 @@ Yoshiaki Yasumizu
 - 2018年 12月 第1回バイオインフォマティクス可視化セミナーLT
 - 2018年 10月 生命科学フロンティアミーティング口頭発表
 - 2019年 5月 「第60回日本神経学会学術大会」一般演題優秀口演賞
+- 2019年 6月  「阪医Python会もくもく会」
 
-## publications
+## Publications
 
 - Innate Myeloid Cell Subset-Specific Gene Expression Patterns in the Human Colon are Altered in Crohn’s Disease Patients. *Digestion* (2018). (co-first)
 - **安水良明** 「Pythonで医学に貢献を」 実験医学 Vol. 37 No. 4 (2019) [(link)](https://www.yodosha.co.jp/jikkenigaku/opinion/vol37n4.html)
 - 大倉永也、**安水良明** 「Treg分化におけるエピゲノムの役割」医学のあゆみ Vol. 268 No. 13 (2019)
+
+## Softwares
+
+- Hiraoka, Yu, Yamada, Kohki, Kawasaki, Yusuke, Hirose, Haruka, Matsumoto, Yasunari, Ishikawa, Kaito, & Yasumizu, Yoshiaki. (2019, July 27). ikra : RNAseq pipeline centered on Salmon. (Version v1.2.1). Zenodo. http://doi.org/10.5281/zenodo.3352573 [[github](https://github.com/yyoshiaki/ikra)]
 
 ## その他
 
