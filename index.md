@@ -1,6 +1,6 @@
 # Profile
 
-安水 良明
+安水良明
 
 Yoshiaki Yasumizu
 
@@ -60,4 +60,3 @@ Yoshiaki Yasumizu
 
 - 日本免疫学会 (2018年 -)
 - 日本神経学会 (2019年 -)
-
