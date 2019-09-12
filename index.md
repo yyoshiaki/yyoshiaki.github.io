@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 安水 良明(Yoshiaki Yasumizu)
+title: 安水 良明 (Yoshiaki Yasumizu)
 description: Immunology, Bioinformatics, Epigenetics, single cell
 lang: ja_JP
 ---
