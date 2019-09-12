@@ -1,15 +1,13 @@
 ---
 layout: default
-title: Yoshiaki Yasumizu, M.D.
+title: 安水 良明(Yoshiaki Yasumizu)
 description: Immunology, Bioinformatics, Epigenetics, single cell
 lang: ja_JP
 ---
 
 # Profile
 
-安水 良明
-
-Yoshiaki Yasumizu, M.D.
+安水 良明 / Yoshiaki Yasumizu, M.D.
 
 <a href="https://github.com/yyoshiaki"><img src="icons/github.svg" alt="github" border="0" width="30" height="30"></a>
 <a href="https://www.twitter.com/yyoshiaki"><img src="icons/twitter.svg" alt="github" border="0" width="32" height="32"></a>
