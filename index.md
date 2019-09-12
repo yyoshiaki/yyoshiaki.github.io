@@ -1,7 +1,7 @@
 ---
 layout: default
-title: CV | 安水良明 (Yoshiaki Yasumizu)
-description: CV / 経歴
+title: Yoshiaki Yasumizu, M.D.
+description: Immunology, Bioinformatics, Epigenetics, single cell
 lang: ja_JP
 ---
 
