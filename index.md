@@ -1,8 +1,15 @@
+---
+layout: default
+title: Profile | Yoshiaki Yasumizu, M.D.
+description: Profile | Yoshiaki Yasumizu, M.D.
+lang: ja_JP
+---
+
 # Profile
 
-安水良明
+安水 良明
 
-Yoshiaki Yasumizu
+Yoshiaki Yasumizu, M.D.
 
 <a href="https://github.com/yyoshiaki"><img src="icons/github.svg" alt="github" border="0" width="30" height="30"></a>
 <a href="https://www.twitter.com/yyoshiaki"><img src="icons/twitter.svg" alt="github" border="0" width="32" height="32"></a>
