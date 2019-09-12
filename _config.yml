@@ -1,6 +1,7 @@
 theme: jekyll-theme-cayman
-title: Yoshiaki Yasumizu
+title: Yoshiaki Yasumizu 安水 良明
 google_analytics: UA-141062523-1
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
   
