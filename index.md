@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Profile | Yoshiaki Yasumizu, M.D.
-description: Profile | Yoshiaki Yasumizu, M.D.
+title: CV | 安水良明 (Yoshiaki Yasumizu)
+description: CV / 経歴
 lang: ja_JP
 ---
 
@@ -14,7 +14,7 @@ Yoshiaki Yasumizu, M.D.
 <a href="https://github.com/yyoshiaki"><img src="icons/github.svg" alt="github" border="0" width="30" height="30"></a>
 <a href="https://www.twitter.com/yyoshiaki"><img src="icons/twitter.svg" alt="github" border="0" width="32" height="32"></a>
 
-## プロフィール
+## 経歴
 
 - 2019年 3月 大阪大学 医学部医学科卒業
 - 2019年 3月 大阪大学 MD研究者育成プログラム 修了 (坂口研)
