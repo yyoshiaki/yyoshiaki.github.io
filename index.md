@@ -40,6 +40,7 @@ lang: ja_JP
 - 2019年 5月 「第60回日本神経学会学術大会」一般演題優秀口演賞
 - 2019年 6月  「大阪大学微生物病研究所 × 阪医Python会 合同ワークショップ」
 - 2019年 7月  「阪医Python会もくもく会」
+- 2019年 10月 「生命科学者のためのDr.Bonoデータ解析実践道場」読書会 @大阪」[(slides)](https://www.slideshare.net/YoshiakiYasumizu/drbonodojo36)
 
 ## Publications
 
@@ -57,7 +58,6 @@ lang: ja_JP
 - 2017年 4月 - 2018年 3月 AIMS -AIメディカル研究会- 幹部 [(link)](https://ai-medical.github.io/)
 - 2018年 2月 大阪大学医学部医学系研究科 遺伝統計学教室 (岡田研) インターン
 - 2018年 3月 Bonn 大学（ドイツ）Genomics and Immnoregulation 教室（J. Schultze Lab）インターン
-
 - 2019年 3月 DBCLSインターン (坊農先生)
 
 
