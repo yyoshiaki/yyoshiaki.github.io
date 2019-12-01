@@ -47,6 +47,7 @@ lang: ja_JP
 - Innate Myeloid Cell Subset-Specific Gene Expression Patterns in the Human Colon are Altered in Crohn’s Disease Patients. *Digestion* (2018). (co-first)
 - **安水良明** 「Pythonで医学に貢献を」 実験医学 Vol. 37 No. 4 (2019) [(link)](https://www.yodosha.co.jp/jikkenigaku/opinion/vol37n4.html)
 - 大倉永也、**安水良明** 「Treg分化におけるエピゲノムの役割」医学のあゆみ Vol. 268 No. 13 (2019)
+- **安水良明** 「Chapter 1　まずはこれだけ! 解析環境を整える～Mac+Biocondaを中心に」 実験医学別冊 RNA-Seqデータ解析 WETラボのための鉄板レシピ (2019)
 
 ## Softwares
 
