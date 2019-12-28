@@ -46,7 +46,7 @@ lang: ja_JP
 
 - Innate Myeloid Cell Subset-Specific Gene Expression Patterns in the Human Colon are Altered in Crohn’s Disease Patients. *Digestion* (2018). (co-first)
 - **安水良明** 「Pythonで医学に貢献を」 実験医学 Vol. 37 No. 4 p621 (2019) [(link)](https://www.yodosha.co.jp/jikkenigaku/opinion/vol37n4.html)
-- 大倉永也、**安水良明** 「Treg分化におけるエピゲノムの役割」 医学のあゆみ Vol. 268 No. 13 (2019)
+- 大倉永也、**安水良明** 「Treg分化におけるエピゲノムの役割」 医学のあゆみ Vol. 268 No. 13 p1030-1035 (2019)
 - **安水良明** 「Chapter 1　まずはこれだけ! 解析環境を整える～Mac+Biocondaを中心に」 実験医学別冊 RNA-Seqデータ解析 WETラボのための鉄板レシピ p10-27 (2019)[(link)](https://www.yodosha.co.jp/yodobook/book/9784758122436/)
 - **安水良明**, 中村やまみ, 大倉永也 「T細胞におけるシングルセル解析」 実験医学増刊 「シングルセルゲノミクス」 Vol.37 No.20 p3421-3427 (2019)
 - 大田達郎, 石井学, 末竹裕貴, 丹生智也, 山田航輝, **安水良明** 「CWL（Common Workflow Language）があれば, DRY解析はもう怖くない」 次世代シーケンサー DRY解析教本 改訂第2版 p331-338 (2019)
