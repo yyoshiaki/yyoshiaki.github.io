@@ -41,6 +41,7 @@ lang: ja_JP
 - 2019年 6月  「大阪大学微生物病研究所 × 阪医Python会 合同ワークショップ」
 - 2019年 7月  「阪医Python会もくもく会」
 - 2019年 10月 「生命科学者のためのDr.Bonoデータ解析実践道場」読書会 @大阪」[(slides)](https://www.slideshare.net/YoshiakiYasumizu/drbonodojo36)
+- 2019年 12月 「第48回日本免疫学会学術集会」　口頭発表
 
 ## Publications
 
