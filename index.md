@@ -52,6 +52,7 @@ lang: ja_JP
 - **安水良明**, 中村やまみ, 大倉永也 「T細胞におけるシングルセル解析」 実験医学増刊 「シングルセルゲノミクス」 Vol.37 No.20 p3421-3427 (2019)
 - 大田達郎, 石井学, 末竹裕貴, 丹生智也, 山田航輝, **安水良明** 「CWL（Common Workflow Language）があれば, DRY解析はもう怖くない」 次世代シーケンサー DRY解析教本 改訂第2版 p331-338 (2019)
 - **安水良明**, 岡田随象 「大規模ヒトゲノム解析による日本人集団の適応進化の解明」 腎臓内科・泌尿器科 Vol.10 No.6 p566-571 (2019)
+- Yoshiaki Yasumizu, Saori Sakaue, Takahiro Konuma, Ken Suzuki, Koichi Matsuda, Yoshinori Murakami, Michiaki Kubo, Pier Francesco Palamara, Yoichiro Kamatani, Yukinori Okada, Genome-wide natural selection signatures are linked to genetic risk of modern phenotypes in the Japanese population. Molecular Biology and Evolution. (2020) https://doi.org/10.1093/molbev/msaa005
 
 ## Softwares
 
