@@ -16,8 +16,20 @@ lang: ja_JP
 
 - 2019年 3月 大阪大学 医学部医学科卒業
 - 2019年 3月 大阪大学 MD研究者育成プログラム 修了 (坂口研)
-- 2019年 4月 -　国家公務員共済組合連合会　大手前病院　初期研修医
-- 2019年 4月 -　大阪大学　免疫学フロンティア研究センター　実験免疫学　招へい研究員
+- 2019年 4月 - 2020年３月 国家公務員共済組合連合会　大手前病院　初期研修医
+- 2019年 4月 - 大阪大学　免疫学フロンティア研究センター　実験免疫学　招へい研究員
+- 2020年 4月 - 大阪大学医学部附属病院 初期研修医
+
+## Publications
+
+- Innate Myeloid Cell Subset-Specific Gene Expression Patterns in the Human Colon are Altered in Crohn’s Disease Patients. *Digestion* (2018). (co-first)
+- **安水良明** 「Pythonで医学に貢献を」 実験医学 Vol. 37 No. 4 p621 (2019) [(link)](https://www.yodosha.co.jp/jikkenigaku/opinion/vol37n4.html)
+- 大倉永也、**安水良明** 「Treg分化におけるエピゲノムの役割」 医学のあゆみ Vol. 268 No. 13 p1030-1035 (2019)
+- **安水良明** 「Chapter 1　まずはこれだけ! 解析環境を整える～Mac+Biocondaを中心に」 実験医学別冊 RNA-Seqデータ解析 WETラボのための鉄板レシピ p10-27 (2019)[(link)](https://www.yodosha.co.jp/yodobook/book/9784758122436/)
+- **安水良明**, 中村やまみ, 大倉永也 「T細胞におけるシングルセル解析」 実験医学増刊 「シングルセルゲノミクス」 Vol.37 No.20 p3421-3427 (2019)
+- 大田達郎, 石井学, 末竹裕貴, 丹生智也, 山田航輝, **安水良明** 「CWL（Common Workflow Language）があれば, DRY解析はもう怖くない」 次世代シーケンサー DRY解析教本 改訂第2版 p331-338 (2019)
+- **安水良明**, 岡田随象 「大規模ヒトゲノム解析による日本人集団の適応進化の解明」 腎臓内科・泌尿器科 Vol.10 No.6 p566-571 (2019)
+- Yoshiaki Yasumizu, Saori Sakaue, Takahiro Konuma, Ken Suzuki, Koichi Matsuda, Yoshinori Murakami, Michiaki Kubo, Pier Francesco Palamara, Yoichiro Kamatani, Yukinori Okada, Genome-wide natural selection signatures are linked to genetic risk of modern phenotypes in the Japanese population. Molecular Biology and Evolution. (2020) https://doi.org/10.1093/molbev/msaa005
 
 ## 受賞等
 
@@ -42,17 +54,6 @@ lang: ja_JP
 - 2019年 7月  「阪医Python会もくもく会」
 - 2019年 10月 「生命科学者のためのDr.Bonoデータ解析実践道場」読書会 @大阪」[(slides)](https://www.slideshare.net/YoshiakiYasumizu/drbonodojo36)
 - 2019年 12月 「第48回日本免疫学会学術集会」　口頭発表
-
-## Publications
-
-- Innate Myeloid Cell Subset-Specific Gene Expression Patterns in the Human Colon are Altered in Crohn’s Disease Patients. *Digestion* (2018). (co-first)
-- **安水良明** 「Pythonで医学に貢献を」 実験医学 Vol. 37 No. 4 p621 (2019) [(link)](https://www.yodosha.co.jp/jikkenigaku/opinion/vol37n4.html)
-- 大倉永也、**安水良明** 「Treg分化におけるエピゲノムの役割」 医学のあゆみ Vol. 268 No. 13 p1030-1035 (2019)
-- **安水良明** 「Chapter 1　まずはこれだけ! 解析環境を整える～Mac+Biocondaを中心に」 実験医学別冊 RNA-Seqデータ解析 WETラボのための鉄板レシピ p10-27 (2019)[(link)](https://www.yodosha.co.jp/yodobook/book/9784758122436/)
-- **安水良明**, 中村やまみ, 大倉永也 「T細胞におけるシングルセル解析」 実験医学増刊 「シングルセルゲノミクス」 Vol.37 No.20 p3421-3427 (2019)
-- 大田達郎, 石井学, 末竹裕貴, 丹生智也, 山田航輝, **安水良明** 「CWL（Common Workflow Language）があれば, DRY解析はもう怖くない」 次世代シーケンサー DRY解析教本 改訂第2版 p331-338 (2019)
-- **安水良明**, 岡田随象 「大規模ヒトゲノム解析による日本人集団の適応進化の解明」 腎臓内科・泌尿器科 Vol.10 No.6 p566-571 (2019)
-- Yoshiaki Yasumizu, Saori Sakaue, Takahiro Konuma, Ken Suzuki, Koichi Matsuda, Yoshinori Murakami, Michiaki Kubo, Pier Francesco Palamara, Yoichiro Kamatani, Yukinori Okada, Genome-wide natural selection signatures are linked to genetic risk of modern phenotypes in the Japanese population. Molecular Biology and Evolution. (2020) https://doi.org/10.1093/molbev/msaa005
 
 ## Softwares
 
