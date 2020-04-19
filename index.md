@@ -59,7 +59,10 @@ lang: ja_JP
 
 ## Softwares
 
+<a href="https://github.com/yyoshiaki/ikra"><img src="https://github.com/yyoshiaki/ikra/blob/master/img/ikra.png?raw=true" alt="ikra" border="0" width="60" height="60" align="right"></a>
 - Hiraoka, Yu, Yamada, Kohki, Kawasaki, Yusuke, Hirose, Haruka, Matsumoto, Yasunari, Ishikawa, Kaito, & Yasumizu, Yoshiaki. (2019, July 27). ikra : RNAseq pipeline centered on Salmon. (Version v1.2.1). Zenodo. http://doi.org/10.5281/zenodo.3352573 [[github](https://github.com/yyoshiaki/ikra)]
+
+<a href="https://github.com/yyoshiaki/VIRTUS"><img src="https://github.com/yyoshiaki/VIRTUS/blob/master/img/VIRTUS.jpg?raw=true" alt="VIRTUS" border="0" width="60" height="60" align="right"></a>
 - VIRTUS: a pipeline for comprehensive virus analysis from conventional RNA-seq data. Manuscript in preparation. [[github](https://github.com/yyoshiaki/VIRTUS)]
 
 ## その他
