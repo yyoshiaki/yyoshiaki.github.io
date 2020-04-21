@@ -14,67 +14,68 @@ lang: ja_JP
 
 ## 経歴
 
-- 2019年 3月 大阪大学 医学部医学科卒業
-- 2019年 3月 大阪大学 MD研究者育成プログラム 修了 (坂口研)
-- 2019年 4月 - 2020年３月 国家公務員共済組合連合会　大手前病院　初期研修医
-- 2019年 4月 - 大阪大学　免疫学フロンティア研究センター　実験免疫学　招へい研究員
-- 2020年 4月 - 大阪大学医学部附属病院 初期研修医
 - 2020年 4月 - 大阪大学大学院医学系研究科 神経内科学 招聘教員
+- 2020年 4月 - 大阪大学医学部附属病院 初期研修医
+- 2019年 4月 - 大阪大学　免疫学フロンティア研究センター　実験免疫学　招へい研究員
+- 2019年 4月 - 2020年３月 国家公務員共済組合連合会　大手前病院　初期研修医
+- 2019年 3月 大阪大学 MD研究者育成プログラム 修了 (坂口研)
+- 2019年 3月 大阪大学 医学部医学科卒業
 
 ## Publications
 
-- Innate Myeloid Cell Subset-Specific Gene Expression Patterns in the Human Colon are Altered in Crohn’s Disease Patients. *Digestion* (2018). (co-first)
-- **安水良明** 「Pythonで医学に貢献を」 実験医学 Vol. 37 No. 4 p621 (2019) [(link)](https://www.yodosha.co.jp/jikkenigaku/opinion/vol37n4.html)
-- 大倉永也、**安水良明** 「Treg分化におけるエピゲノムの役割」 医学のあゆみ Vol. 268 No. 13 p1030-1035 (2019)
-- **安水良明** 「Chapter 1　まずはこれだけ! 解析環境を整える～Mac+Biocondaを中心に」 実験医学別冊 RNA-Seqデータ解析 WETラボのための鉄板レシピ p10-27 (2019)[(link)](https://www.yodosha.co.jp/yodobook/book/9784758122436/)
-- **安水良明**, 中村やまみ, 大倉永也 「T細胞におけるシングルセル解析」 実験医学増刊 「シングルセルゲノミクス」 Vol.37 No.20 p3421-3427 (2019)
-- 大田達郎, 石井学, 末竹裕貴, 丹生智也, 山田航輝, **安水良明** 「CWL（Common Workflow Language）があれば, DRY解析はもう怖くない」 次世代シーケンサー DRY解析教本 改訂第2版 p331-338 (2019)
-- **安水良明**, 岡田随象 「大規模ヒトゲノム解析による日本人集団の適応進化の解明」 腎臓内科・泌尿器科 Vol.10 No.6 p566-571 (2019)
-- **Yoshiaki Yasumizu**, Saori Sakaue, Takahiro Konuma, Ken Suzuki, Koichi Matsuda, Yoshinori Murakami, Michiaki Kubo, Pier Francesco Palamara, Yoichiro Kamatani, Yukinori Okada, Genome-wide natural selection signatures are linked to genetic risk of modern phenotypes in the Japanese population. *Molecular Biology and Evolution*. (2020) https://doi.org/10.1093/molbev/msaa005
 - Naganari Ohkura, **Yoshiaki Yasumizu**, Yohko Kitagawa, Atsushi Tanaka, Yamami Nakamura, Daisuke Motooka, Shota Nakamura, Yukinori Okada, Shimon Sakaguchi, Regulatory T cell-specific epigenomic region variants are a key determinant of susceptibility to common autoimmune diseases. *Immunity*. (2020) in Press (co-first)
+- **Yoshiaki Yasumizu**, Saori Sakaue, Takahiro Konuma, Ken Suzuki, Koichi Matsuda, Yoshinori Murakami, Michiaki Kubo, Pier Francesco Palamara, Yoichiro Kamatani, Yukinori Okada, Genome-wide natural selection signatures are linked to genetic risk of modern phenotypes in the Japanese population. *Molecular Biology and Evolution*. (2020) https://doi.org/10.1093/molbev/msaa005
+- **安水良明**, 岡田随象 「大規模ヒトゲノム解析による日本人集団の適応進化の解明」 腎臓内科・泌尿器科 Vol.10 No.6 p566-571 (2019)
+- 大田達郎, 石井学, 末竹裕貴, 丹生智也, 山田航輝, **安水良明** 「CWL（Common Workflow Language）があれば, DRY解析はもう怖くない」 次世代シーケンサー DRY解析教本 改訂第2版 p331-338 (2019)
+- **安水良明**, 中村やまみ, 大倉永也 「T細胞におけるシングルセル解析」 実験医学増刊 「シングルセルゲノミクス」 Vol.37 No.20 p3421-3427 (2019)
+- **安水良明** 「Chapter 1　まずはこれだけ! 解析環境を整える～Mac+Biocondaを中心に」 実験医学別冊 RNA-Seqデータ解析 WETラボのための鉄板レシピ p10-27 (2019)[(link)](https://www.yodosha.co.jp/yodobook/book/9784758122436/)
+- 大倉永也、**安水良明** 「Treg分化におけるエピゲノムの役割」 医学のあゆみ Vol. 268 No. 13 p1030-1035 (2019)
+- **安水良明** 「Pythonで医学に貢献を」 実験医学 Vol. 37 No. 4 p621 (2019) [(link)](https://www.yodosha.co.jp/jikkenigaku/opinion/vol37n4.html)
+- Innate Myeloid Cell Subset-Specific Gene Expression Patterns in the Human Colon are Altered in Crohn’s Disease Patients. *Digestion* (2018). (co-first)
+
+
 
 ## 受賞等
 
-- 2017年 3月 国立台湾大学交流会（Excellent Presentation Award）
-- 2017年 7月 第19回　免疫サマースクール 2017 in 湘南　優秀発表賞 「制御性T細胞特異的エピゲノムと自己免疫疾患との関連」
-- 2017年 12月 「2017 年度世界をリードする次世代 MD 研究者・育成プロジェクト全国リトリート」口頭発表（最優秀口頭発表賞）
-- 2017年 12月 「バイオインフォマティクス技術者認定試験」合格（首席）
-- 2018年 2月 Bioinformatics Contest 2018（ロシア ITMO 大学主催）18位 入賞
-- 2018年 9月 Kaggle 「Home Credit Default Risk」Silver medal
 - 2019年 5月 「第60回日本神経学会学術大会」一般演題優秀口演賞 「Multi-layer omics analysis reveals myasthenia gravis specific neuronal molecular regulation pattern.」
+- 2018年 9月 Kaggle 「Home Credit Default Risk」Silver medal
+- 2018年 2月 Bioinformatics Contest 2018（ロシア ITMO 大学主催）18位 入賞
+- 2017年 12月 「バイオインフォマティクス技術者認定試験」合格（首席）
+- 2017年 12月 「2017 年度世界をリードする次世代 MD 研究者・育成プロジェクト全国リトリート」口頭発表（最優秀口頭発表賞）
+- 2017年 7月 第19回　免疫サマースクール 2017 in 湘南　優秀発表賞 「制御性T細胞特異的エピゲノムと自己免疫疾患との関連」
+- 2017年 3月 国立台湾大学交流会（Excellent Presentation Award）
 
 ## 発表
 
-- 2017年 5月 「第五回 NGS 現場の会」　ポスター発表
-- 2017年 12月 「第46回日本免疫学会学術集会」　口頭発表
-- 2018年 4月 「Dr. Bono の生命科学データ解析-読書会 @大阪」 関西医科大学広田教授と共同主催
-- 2018年 4月 「The 36th IFReC Colloquium」発表
-- 2018年 12月 第1回バイオインフォマティクス可視化セミナーLT
-- 2018年 10月 生命科学フロンティアミーティング口頭発表
-- 2019年 5月 「第60回日本神経学会学術大会」一般演題優秀口演賞
-- 2019年 6月  「大阪大学微生物病研究所 × 阪医Python会 合同ワークショップ」
-- 2019年 7月  「阪医Python会もくもく会」
-- 2019年 10月 「生命科学者のためのDr.Bonoデータ解析実践道場」読書会 @大阪」[(slides)](https://www.slideshare.net/YoshiakiYasumizu/drbonodojo36)
 - 2019年 12月 「第48回日本免疫学会学術集会」　口頭発表
+- 2019年 10月 「生命科学者のためのDr.Bonoデータ解析実践道場」読書会 @大阪」[(slides)](https://www.slideshare.net/YoshiakiYasumizu/drbonodojo36)
+- 2019年 7月  「阪医Python会もくもく会」
+- 2019年 6月  「大阪大学微生物病研究所 × 阪医Python会 合同ワークショップ」
+- 2019年 5月 「第60回日本神経学会学術大会」一般演題優秀口演賞
+- 2018年 10月 生命科学フロンティアミーティング口頭発表
+- 2018年 12月 第1回バイオインフォマティクス可視化セミナーLT
+- 2018年 4月 「The 36th IFReC Colloquium」発表
+- 2018年 4月 「Dr. Bono の生命科学データ解析-読書会 @大阪」 関西医科大学広田教授と共同主催
+- 2017年 12月 「第46回日本免疫学会学術集会」　口頭発表
+- 2017年 5月 「第五回 NGS 現場の会」　ポスター発表
 
 ## Softwares
-
-<a href="https://github.com/yyoshiaki/ikra"><img src="https://github.com/yyoshiaki/ikra/blob/master/img/ikra.png?raw=true" alt="ikra" border="0" width="60" height="60" align="right"></a>
-- Hiraoka, Yu, Yamada, Kohki, Kawasaki, Yusuke, Hirose, Haruka, Matsumoto, Yasunari, Ishikawa, Kaito, & Yasumizu, Yoshiaki. (2019, July 27). ikra : RNAseq pipeline centered on Salmon. (Version v1.2.1). Zenodo. http://doi.org/10.5281/zenodo.3352573 [[github](https://github.com/yyoshiaki/ikra)]
 
 <a href="https://github.com/yyoshiaki/VIRTUS"><img src="https://github.com/yyoshiaki/VIRTUS/blob/master/img/VIRTUS.jpg?raw=true" alt="VIRTUS" border="0" width="60" height="60" align="right"></a>
 - VIRTUS: a pipeline for comprehensive virus analysis from conventional RNA-seq data. Manuscript in preparation. [[github](https://github.com/yyoshiaki/VIRTUS)]
 
+<a href="https://github.com/yyoshiaki/ikra"><img src="https://github.com/yyoshiaki/ikra/blob/master/img/ikra.png?raw=true" alt="ikra" border="0" width="60" height="60" align="right"></a>
+- Hiraoka, Yu, Yamada, Kohki, Kawasaki, Yusuke, Hirose, Haruka, Matsumoto, Yasunari, Ishikawa, Kaito, & Yasumizu, Yoshiaki. (2019, July 27). ikra : RNAseq pipeline centered on Salmon. (Version v1.2.1). Zenodo. http://doi.org/10.5281/zenodo.3352573 [[github](https://github.com/yyoshiaki/ikra)]
+
 ## その他
 
+- 2019年 3月 DBCLSインターン (坊農先生)
+- 2018年 3月 Bonn 大学（ドイツ）Genomics and Immnoregulation 教室（J. Schultze Lab）インターン
+- 2018年 2月 大阪大学医学部医学系研究科 遺伝統計学教室 (岡田研) インターン
 - 2017年 4月 阪医Python会 設立 [(link)](https://pythonoum.wordpress.com/)
 - 2017年 4月 - 2018年 3月 AIMS -AIメディカル研究会- 幹部 [(link)](https://ai-medical.github.io/)
-- 2018年 2月 大阪大学医学部医学系研究科 遺伝統計学教室 (岡田研) インターン
-- 2018年 3月 Bonn 大学（ドイツ）Genomics and Immnoregulation 教室（J. Schultze Lab）インターン
-- 2019年 3月 DBCLSインターン (坊農先生)
-
 
 ## 学会
 
-- 日本免疫学会 (2018年 -)
 - 日本神経学会 (2019年 -)
+- 日本免疫学会 (2018年 -)
