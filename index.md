@@ -47,16 +47,16 @@ lang: ja_JP
 
 ## 発表
 
-- 2019年 12月 「第48回日本免疫学会学術集会」　口頭発表
+- 2019年 12月 「第48回日本免疫学会学術集会」　口頭発表 「Single-cell transcriptomic atlas of thymic Treg development」
 - 2019年 10月 「生命科学者のためのDr.Bonoデータ解析実践道場」読書会 @大阪」[(slides)](https://www.slideshare.net/YoshiakiYasumizu/drbonodojo36)
 - 2019年 7月  「阪医Python会もくもく会」
 - 2019年 6月  「大阪大学微生物病研究所 × 阪医Python会 合同ワークショップ」
-- 2019年 5月 「第60回日本神経学会学術大会」一般演題優秀口演賞
+- 2019年 5月 「第60回日本神経学会学術大会」一般演題優秀口演賞セッション（臨床部門）「Multi-omics analysis reveals myasthenia gravis specific neuronal molecular regulation patterns」
 - 2018年 10月 生命科学フロンティアミーティング口頭発表
 - 2018年 12月 第1回バイオインフォマティクス可視化セミナーLT
 - 2018年 4月 「The 36th IFReC Colloquium」発表
 - 2018年 4月 「Dr. Bono の生命科学データ解析-読書会 @大阪」 関西医科大学広田教授と共同主催
-- 2017年 12月 「第46回日本免疫学会学術集会」　口頭発表
+- 2017年 12月 「第46回日本免疫学会学術集会」口頭発表「Significance of the regulatory T cell-specific epigenetics in autoimmune disease susceptibility」
 - 2017年 5月 「第五回 NGS 現場の会」　ポスター発表
 
 ## Softwares
