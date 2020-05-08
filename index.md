@@ -23,6 +23,8 @@ lang: ja_JP
 
 ## Publications
 
+- Yoshiyuki Matsuo, Shinnosuke Komiya, **Yoshiaki Yasumizu**, Yuki Yasuoka, Katsura Mizushima, Tomohisa Takagi, Kirill Kryukov, Aisaku Fukuda, Yoshiharu Morimoto, Yuji Naito, Hidetaka Okada, Hidemasa Bono, So Nakagawa, Kiichi Hirota, Full-length 16S rRNA gene amplicon analysis of human gut microbiota using MinION™ nanopore sequencing confers species-level resolution.
+*bioRxiv*. (2020) https://doi.org/10.1101/2020.05.06.078147
 - Naganari Ohkura, **Yoshiaki Yasumizu**, Yohko Kitagawa, Atsushi Tanaka, Yamami Nakamura, Daisuke Motooka, Shota Nakamura, Yukinori Okada, Shimon Sakaguchi, Regulatory T cell-specific epigenomic region variants are a key determinant of susceptibility to common autoimmune diseases. *Immunity*. (2020) in Press (co-first)
 - **Yoshiaki Yasumizu**, Saori Sakaue, Takahiro Konuma, Ken Suzuki, Koichi Matsuda, Yoshinori Murakami, Michiaki Kubo, Pier Francesco Palamara, Yoichiro Kamatani, Yukinori Okada, Genome-wide natural selection signatures are linked to genetic risk of modern phenotypes in the Japanese population. *Molecular Biology and Evolution*. (2020) https://doi.org/10.1093/molbev/msaa005
 - **安水良明**, 岡田随象 「大規模ヒトゲノム解析による日本人集団の適応進化の解明」 腎臓内科・泌尿器科 Vol.10 No.6 p566-571 (2019)
