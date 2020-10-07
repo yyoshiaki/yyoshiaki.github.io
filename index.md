@@ -23,7 +23,7 @@ lang: ja_JP
 
 ## Publications
 
-- **Yoshiaki Yasumizu**, Atsushi Hara, Shimon Sakaguchi, Naganari Ohkura, VIRTUS: a pipeline for comprehensive virus analysis from conventional RNA-seq data, *Bioinformatics*, , btaa859, https://doi.org/10.1093/bioinformatics/btaa859
+- **Yoshiaki Yasumizu**, Atsushi Hara, Shimon Sakaguchi, Naganari Ohkura, VIRTUS: a pipeline for comprehensive virus analysis from conventional RNA-seq data, *Bioinformatics*, (2020), btaa859, https://doi.org/10.1093/bioinformatics/btaa859
 - Hiroaki Shime, Mizuyu Odanaka, Makoto Tsuiji, Takuma Matoba, Masaki Imai, **Yoshiaki Yasumizu**, Ryuta Uraki, Kiyoshi Minohara, Maiko Watanabe, Anthony John Bonito, Hidehiro Fukuyama, Naganari Ohkura, Shimon Sakaguchi, Akimichi Morita, Sayuri Yamazaki. Proenkephalin + regulatory T cells expanded by ultraviolet B exposure maintain skin homeostasis with a healing function. *Proceedings of the National Academy of Sciences*. (2020), 202000372. https://doi.org/10.1073/pnas.2000372117
 - **Yoshiaki Yasumizu**, Atsushi Hara, Shimon Sakaguchi, Naganari Ohkura. VIRTUS: a pipeline for comprehensive virus analysis from conventional RNA-seq data. *bioRxiv* 2020.05.08.085308; doi: [https://doi.org/10.1101/2020.05.08.085308](https://doi.org/10.1101/2020.05.08.085308)
 - Yoshiyuki Matsuo, Shinnosuke Komiya, **Yoshiaki Yasumizu**, Yuki Yasuoka, Katsura Mizushima, Tomohisa Takagi, Kirill Kryukov, Aisaku Fukuda, Yoshiharu Morimoto, Yuji Naito, Hidetaka Okada, Hidemasa Bono, So Nakagawa, Kiichi Hirota, Full-length 16S rRNA gene amplicon analysis of human gut microbiota using MinION™ nanopore sequencing confers species-level resolution.
