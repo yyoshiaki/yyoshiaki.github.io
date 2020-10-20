@@ -30,6 +30,7 @@ lang: ja_JP
 *bioRxiv*. (2020) [https://doi.org/10.1101/2020.05.06.078147](https://doi.org/10.1101/2020.05.06.078147)
 - Naganari Ohkura, **Yoshiaki Yasumizu**, Yohko Kitagawa, Atsushi Tanaka, Yamami Nakamura, Daisuke Motooka, Shota Nakamura, Yukinori Okada, Shimon Sakaguchi, Regulatory T cell-specific epigenomic region variants are a key determinant of susceptibility to common autoimmune diseases. *Immunity*, 52(6), 1119-1132.e4. https://doi.org/10.1016/j.immuni.2020.04.006
 - **Yoshiaki Yasumizu**, Saori Sakaue, Takahiro Konuma, Ken Suzuki, Koichi Matsuda, Yoshinori Murakami, Michiaki Kubo, Pier Francesco Palamara, Yoichiro Kamatani, Yukinori Okada, Genome-wide natural selection signatures are linked to genetic risk of modern phenotypes in the Japanese population. *Molecular Biology and Evolution*. (2020) [https://doi.org/10.1093/molbev/msaa005](https://doi.org/10.1093/molbev/msaa005)
+- **安水良明**, 大倉永也 「免疫制御,免疫寛容,免疫記憶」 日本医師会雑誌 第149巻・特別号（２） pS61-65 (2020)
 - **安水良明**, 岡田随象 「大規模ヒトゲノム解析による日本人集団の適応進化の解明」 腎臓内科・泌尿器科 Vol.10 No.6 p566-571 (2019)
 - 大田達郎, 石井学, 末竹裕貴, 丹生智也, 山田航輝, **安水良明** 「CWL（Common Workflow Language）があれば, DRY解析はもう怖くない」 次世代シーケンサー DRY解析教本 改訂第2版 p331-338 (2019)
 - **安水良明**, 中村やまみ, 大倉永也 「T細胞におけるシングルセル解析」 実験医学増刊 「シングルセルゲノミクス」 Vol.37 No.20 p3421-3427 (2019)
@@ -52,6 +53,7 @@ lang: ja_JP
 
 ## 発表
 
+- 2020年 9月 「第二回全国医療AIコンテスト 2020」 「Bioinformaticsで疾患の遺伝要因と環境要因を明らかにする」
 - 2019年 12月 「第48回日本免疫学会学術集会」　口頭発表 「Single-cell transcriptomic atlas of thymic Treg development」
 - 2019年 10月 「生命科学者のためのDr.Bonoデータ解析実践道場」読書会 @大阪」[(slides)](https://www.slideshare.net/YoshiakiYasumizu/drbonodojo36)
 - 2019年 7月  「阪医Python会もくもく会」
