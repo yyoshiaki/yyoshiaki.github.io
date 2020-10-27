@@ -43,7 +43,6 @@ lang: ja_JP
 
 ## 受賞等
 
-- 2019年 5月 「第60回日本神経学会学術大会」一般演題優秀口演賞 「Multi-layer omics analysis reveals myasthenia gravis specific neuronal molecular regulation pattern.」
 - 2018年 9月 Kaggle 「Home Credit Default Risk」Silver medal
 - 2018年 2月 Bioinformatics Contest 2018（ロシア ITMO 大学主催）18位 入賞
 - 2017年 12月 「バイオインフォマティクス技術者認定試験」合格（首席）
