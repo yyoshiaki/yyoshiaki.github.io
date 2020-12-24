@@ -39,10 +39,9 @@ lang: ja_JP
 - **安水良明** 「Pythonで医学に貢献を」 実験医学 Vol. 37 No. 4 p621 (2019) [(link)](https://www.yodosha.co.jp/jikkenigaku/opinion/vol37n4.html)
 - Innate Myeloid Cell Subset-Specific Gene Expression Patterns in the Human Colon are Altered in Crohn’s Disease Patients. *Digestion* (2018). (co-first)
 
-
-
 ## 受賞等
 
+- 2020年 12月 ウイルス学若手研究集会2020 優秀発表賞 「VIRTUS:多細胞・一細胞RNA-seqを用いた網羅的ウイルス定量手法」
 - 2018年 9月 Kaggle 「Home Credit Default Risk」Silver medal
 - 2018年 2月 Bioinformatics Contest 2018（ロシア ITMO 大学主催）18位 入賞
 - 2017年 12月 「バイオインフォマティクス技術者認定試験」合格（首席）
