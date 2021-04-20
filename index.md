@@ -14,9 +14,11 @@ lang: ja_JP
 
 ## 経歴
 
+- 2021年 4月 - 大阪大学 卓越大学院プログラム
+- 2021年 4月 - 大阪大学免疫学フロンティア研究センター 実験免疫学 博士課程
 - 2020年 4月 - 大阪大学大学院医学系研究科 神経内科学 招聘教員
-- 2020年 4月 - 大阪大学医学部附属病院 初期研修医
-- 2019年 4月 - 大阪大学　免疫学フロンティア研究センター　実験免疫学　招へい研究員
+- 2020年 4月 - 2021年 3月大阪大学医学部附属病院 初期研修医
+- 2019年 4月 - 2021年 3月大阪大学　免疫学フロンティア研究センター　実験免疫学　招へい研究員
 - 2019年 4月 - 2020年３月 国家公務員共済組合連合会　大手前病院　初期研修医
 - 2019年 3月 大阪大学 MD研究者育成プログラム 修了 (坂口研)
 - 2019年 3月 大阪大学 医学部医学科卒業
@@ -29,6 +31,7 @@ lang: ja_JP
 - Hiroaki Shime, Mizuyu Odanaka, Makoto Tsuiji, Takuma Matoba, Masaki Imai, **Yoshiaki Yasumizu**, Ryuta Uraki, Kiyoshi Minohara, Maiko Watanabe, Anthony John Bonito, Hidehiro Fukuyama, Naganari Ohkura, Shimon Sakaguchi, Akimichi Morita, Sayuri Yamazaki. Proenkephalin + regulatory T cells expanded by ultraviolet B exposure maintain skin homeostasis with a healing function. *Proceedings of the National Academy of Sciences*. (2020), 202000372. [https://doi.org/10.1073/pnas.2000372117](https://doi.org/10.1073/pnas.2000372117)
 - Naganari Ohkura, **Yoshiaki Yasumizu**, Yohko Kitagawa, Atsushi Tanaka, Yamami Nakamura, Daisuke Motooka, Shota Nakamura, Yukinori Okada, Shimon Sakaguchi, Regulatory T cell-specific epigenomic region variants are a key determinant of susceptibility to common autoimmune diseases. *Immunity*, 52(6), 1119-1132.e4. [https://doi.org/10.1016/j.immuni.2020.04.006](https://doi.org/10.1016/j.immuni.2020.04.006)
 - **Yoshiaki Yasumizu**, Saori Sakaue, Takahiro Konuma, Ken Suzuki, Koichi Matsuda, Yoshinori Murakami, Michiaki Kubo, Pier Francesco Palamara, Yoichiro Kamatani, Yukinori Okada, Genome-wide natural selection signatures are linked to genetic risk of modern phenotypes in the Japanese population. *Molecular Biology and Evolution*. (2020) [https://doi.org/10.1093/molbev/msaa005](https://doi.org/10.1093/molbev/msaa005)
+- **安水 良明**, 大倉永也「制御性T細胞特異的エピゲノムは，自己免疫疾患感受性に強く影響する」臨床免疫・アレルギー科第75巻第3号 p253-258 (2021)
 - **安水良明**, 大倉永也 「免疫制御,免疫寛容,免疫記憶」 日本医師会雑誌 第149巻・特別号（２） pS61-65 (2020)
 - **安水良明**, 岡田随象 「大規模ヒトゲノム解析による日本人集団の適応進化の解明」 腎臓内科・泌尿器科 Vol.10 No.6 p566-571 (2019)
 - 大田達郎, 石井学, 末竹裕貴, 丹生智也, 山田航輝, **安水良明** 「CWL（Common Workflow Language）があれば, DRY解析はもう怖くない」 次世代シーケンサー DRY解析教本 改訂第2版 p331-338 (2019)
