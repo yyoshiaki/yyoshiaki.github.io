@@ -23,6 +23,7 @@ lang: ja_JP
 
 ## Publications
 
+- Ishikura, Teruyuki, Makoto Kinoshita, Mikito Shimizu, Yoshiaki Yasumizu, Daisuke Motooka, Daisuke Okuzaki, Kazuya Yamashita, et al. 2021. “Anti-AQP4 Autoantibodies Promote ATP Release from Astrocytes and Induce Mechanical Pain in Rats.” Journal of Neuroinflammation 18 (1): 181. [https://doi.org/10.1186/s12974-021-02232-w](https://doi.org/10.1186/s12974-021-02232-w).
 - Akikazu Harada, Shinji Matsumoto, **Yoshiaki Yasumizu**, Toshiyuki Akama, Hidetoshi Eguchi, Akira Kikuchi. Recruitment of KRAS downstream target ARL4C to membrane protrusions accelerates pancreatic cancer cell invasion. *bioRxiv*, 2021.02.23.432112; doi: [https://doi.org/10.1101/2021.02.23.432112](https://doi.org/10.1101/2021.02.23.432112)
 - Yoshiyuki Matsuo, Shinnosuke Komiya, **Yoshiaki Yasumizu**, Yuki Yasuoka, Katsura Mizushima, Tomohisa Takagi, Kirill Kryukov, Aisaku Fukuda, Yoshiharu Morimoto, Yuji Naito, Hidetaka Okada, Hidemasa Bono, So Nakagawa, Kiichi Hirota. Full-Length 16S RRNA Gene Amplicon Analysis of Human Gut Microbiota Using MinIONTM Nanopore Sequencing Confers Species-Level Resolution. *BMC Microbiology*, (2021), 1–13. [https://doi.org/10.1101/2020.05.06.078147](https://doi.org/10.1101/2020.05.06.078147).
 - **Yoshiaki Yasumizu**, Atsushi Hara, Shimon Sakaguchi, Naganari Ohkura, VIRTUS: a pipeline for comprehensive virus analysis from conventional RNA-seq data, *Bioinformatics*, (2020), btaa859, [https://doi.org/10.1093/bioinformatics/btaa859](https://doi.org/10.1093/bioinformatics/btaa859)
@@ -52,6 +53,7 @@ lang: ja_JP
 
 ## 発表
 
+- 2021年 9月 「Single-cell 2021 Osaka Online seminar」 「シングルセル実験の基礎的なデータ解析から応用展開まで」 [https://www2.aeplan.co.jp/singlecell2021_osaka/profile.html#CV03](https://www2.aeplan.co.jp/singlecell2021_osaka/profile.html#CV03)
 - 2020年 9月 「第二回全国医療AIコンテスト 2020」 「Bioinformaticsで疾患の遺伝要因と環境要因を明らかにする」
 - 2019年 12月 「第48回日本免疫学会学術集会」　口頭発表 「Single-cell transcriptomic atlas of thymic Treg development」
 - 2019年 10月 「生命科学者のためのDr.Bonoデータ解析実践道場」読書会 @大阪」[(slides)](https://www.slideshare.net/YoshiakiYasumizu/drbonodojo36)
@@ -83,5 +85,6 @@ lang: ja_JP
 
 ## 学会
 
+- 日本神経免疫学会 (2021年 -)
 - 日本神経学会 (2019年 -)
 - 日本免疫学会 (2018年 -)
