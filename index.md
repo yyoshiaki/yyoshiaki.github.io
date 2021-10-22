@@ -43,7 +43,7 @@ lang: ja_JP
 
 ## 受賞等
 
-- 2021年　10月 第33回日本神経免疫学会学術集会　Young Neuroimmunologist Award
+- 2021年 10月 第33回日本神経免疫学会学術集会 Young Neuroimmunologist Award
 - 2021年 3月 大阪大学医学部附属病院 初期研修医奨励賞
 - 2020年 12月 ウイルス学若手研究集会2020 優秀発表賞 「VIRTUS:多細胞・一細胞RNA-seqを用いた網羅的ウイルス定量手法」
 - 2018年 9月 Kaggle 「Home Credit Default Risk」Silver medal
