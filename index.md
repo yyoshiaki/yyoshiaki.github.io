@@ -58,6 +58,7 @@ lang: ja_JP
 
 ## 発表
 
+- 日本神経学会主催 産官学教育研修会 「脳神経内科医のためのバイオインフォマティクス・ハンズオン 2021」 企画、ハンズオン、講演 [https://www.neurology-jp.org/news/pdf/news_20211202_01_01.pdf](https://www.neurology-jp.org/news/pdf/news_20211202_01_01.pdf)
 - 2021年 9月 「Single-cell 2021 Osaka Online seminar」 「シングルセル実験の基礎的なデータ解析から応用展開まで」 [https://www2.aeplan.co.jp/singlecell2021_osaka/profile.html#CV03](https://www2.aeplan.co.jp/singlecell2021_osaka/profile.html#CV03)
 - 2020年 9月 「第二回全国医療AIコンテスト 2020」 「Bioinformaticsで疾患の遺伝要因と環境要因を明らかにする」
 - 2019年 12月 「第48回日本免疫学会学術集会」　口頭発表 「Single-cell transcriptomic atlas of thymic Treg development」
