@@ -61,6 +61,7 @@ lang: ja_JP
 
 ## 発表
 
+- 2022年 5月 第63回 日本神経学会学術大会 シンポジウム 未来を切り開く脳神経科学の新技術 「Bioinformaticsで遺伝要因から環境要因まで」
 - 日本神経学会主催 産官学教育研修会 「脳神経内科医のためのバイオインフォマティクス・ハンズオン 2021」 企画、ハンズオン、講演 [https://www.neurology-jp.org/news/pdf/news_20211202_01_01.pdf](https://www.neurology-jp.org/news/pdf/news_20211202_01_01.pdf)
 - 2021年 9月 「Single-cell 2021 Osaka Online seminar」 「シングルセル実験の基礎的なデータ解析から応用展開まで」 [https://www2.aeplan.co.jp/singlecell2021_osaka/profile.html#CV03](https://www2.aeplan.co.jp/singlecell2021_osaka/profile.html#CV03)
 - 2020年 9月 「第二回全国医療AIコンテスト 2020」 「Bioinformaticsで疾患の遺伝要因と環境要因を明らかにする」
