@@ -21,8 +21,10 @@ lang: ja_JP
 - 2021年 4月 - 大阪大学免疫学フロンティア研究センター 実験免疫学 博士課程
 - 2021年 4月 - 大阪大学 卓越大学院プログラム
 
-## Publications
+## スキル
 
+
+## Publications
 - **Yasumizu Yoshiaki**, Ohkura Naganari, Murata Hisash, Kinoshita Makoto ... Morii Eiichi, Shintani Yasushi, Sakaguchi Shimon, Okuno Tatsusada, Mochizuki, Hideki Myasthenia gravis-specific aberrant neuromuscular gene expression by medullary thymic epithelial cells in thymoma. Nat. Commun. 13, 4230 (2022). [10.1038/s41467-022-31951-8](https://doi.org/10.1038/s41467-022-31951-8) [プレスリリース](https://resou.osaka-u.ac.jp/ja/research/2022/20220805_1)
 - Murata, Hisashi, Makoto Kinoshita, **Yoshiaki Yasumizu**, Daisuke Motooka, Shohei Beppu, Naoyuki Shiraishi, Yasuko Sugiyama, et al. 2022. “Cell-Free DNA Derived From Neutrophils Triggers Type 1 Interferon Signature in Neuromyelitis Optica Spectrum Disorder.” *Neurology - Neuroimmunology Neuroinflammation* 9 (3): e1149. [https://doi.org/10.1212/NXI.0000000000001149](https://doi.org/10.1212/NXI.0000000000001149).
 - Yujiro Kidani, Wataru Nogami, **Yoshiaki Yasumizu**, Atsunari Kawashima, Atsushi Tanaka, Yudai Sonoda, Yumi Tona, Kunitaka Nashiki, Reimi Matsumoto, Masaki Hagiwara, Motonao Osaki, Keiji Dohi, Takayuki Kanazawa, Azumi Ueyama, Mai Yoshikawa, Tetsuya Yoshida, Mitsunobu Matsumoto, Kanji Hojo, Satomi Shinonome, Hiroshi Yoshida, Michinari Hirata, Miya Haruna, Yamami Nakamura, Daisuke Motooka, Daisuke Okuzaki, Yasuko Sugiyama, Makoto Kinoshita, Tatsusada Okuno, Taigo Kato, Koji Hatano, Motohide Uemura, Ryoichi Imamura, Kazunori Yokoi, Atsushi Tanemura, Yasushi Shintani, Tadashi Kimura, Norio Nonomura, Hisashi Wada, Masaki Mori, Yuichiro Doki, Naganari Ohkura, Shimon Sakaguchi. CCR8-targeted specific depletion of clonally expanded Treg cells in tumor tissues evokes potent tumor immunity with long-lasting memory. *Proceedings of the National Academy of Sciences* Feb 2022, 119 (7) e2114282119; DOI: [10.1073/pnas.2114282119](https://doi.org/10.1073/pnas.2114282119).
@@ -65,6 +67,7 @@ lang: ja_JP
 
 ## 発表
 
+- 2022年 12月 ブラウザで完結するRNA-seqデータ解析（AJACSオンライン14） [https://biosciencedbc.jp/event/ajacs/ajacs95.html](https://biosciencedbc.jp/event/ajacs/ajacs95.html)
 - 2022年 10月 NGS EXPO 2022 口頭発表「【厳選】トランスクリプトーム解析 (バルク~シングルセル)」、ポスター発表「P04: シングルセル解析で細胞クラスタリングは正解なのか？」、座長「Session 5: 大規模データ・自動化」
 - 2022年 8月 Nagoya Neurology Summer School 「医学ｘ情報学研究の魅力」
 - 2022年 5月 第63回 日本神経学会学術大会 シンポジウム 未来を切り開く脳神経科学の新技術 「Bioinformaticsで遺伝要因から環境要因まで」
