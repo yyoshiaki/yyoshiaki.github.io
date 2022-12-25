@@ -21,9 +21,6 @@ lang: ja_JP
 - 2021年 4月 - 大阪大学免疫学フロンティア研究センター 実験免疫学 博士課程
 - 2021年 4月 - 大阪大学 卓越大学院プログラム
 
-## スキル
-
-
 ## Publications
 - **Yasumizu Yoshiaki**, Ohkura Naganari, Murata Hisash, Kinoshita Makoto ... Morii Eiichi, Shintani Yasushi, Sakaguchi Shimon, Okuno Tatsusada, Mochizuki, Hideki Myasthenia gravis-specific aberrant neuromuscular gene expression by medullary thymic epithelial cells in thymoma. Nat. Commun. 13, 4230 (2022). [10.1038/s41467-022-31951-8](https://doi.org/10.1038/s41467-022-31951-8) [プレスリリース](https://resou.osaka-u.ac.jp/ja/research/2022/20220805_1)
 - Murata, Hisashi, Makoto Kinoshita, **Yoshiaki Yasumizu**, Daisuke Motooka, Shohei Beppu, Naoyuki Shiraishi, Yasuko Sugiyama, et al. 2022. “Cell-Free DNA Derived From Neutrophils Triggers Type 1 Interferon Signature in Neuromyelitis Optica Spectrum Disorder.” *Neurology - Neuroimmunology Neuroinflammation* 9 (3): e1149. [https://doi.org/10.1212/NXI.0000000000001149](https://doi.org/10.1212/NXI.0000000000001149).
