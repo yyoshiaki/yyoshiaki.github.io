@@ -9,13 +9,6 @@ lang: ja_JP
 
 安水 良明 / Yoshiaki Yasumizu, M.D.
 
-<a href="https://github.com/yyoshiaki"><img src="icons/github.svg" alt="github" border="0" width="30" height="30"></a>
-<a href="https://www.twitter.com/yyoshiaki"><img src="icons/twitter.svg" alt="github" border="0" width="32" height="32"></a>
-<a href="https://orcid.org/0000-0002-9872-4909">
-<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_32x32.png" width="32" height="32" /></a>
-<a href="https://scholar.google.com/citations?user=7-zqcukAAAAJ&hl=en">
-<img alt="google scholar" src="icons/google-scholar.svg" width="32" height="32" /></a>
-
 ## Education and Employment
 - 2013 Apr - 2019 March Faculty of Medicine, Osaka University
 > MD Researcher Education Program (Shimon Sakaguchi's Lab)
