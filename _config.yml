@@ -1,7 +1,20 @@
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
+# remote_theme: pages-themes/minimal@v0.2.0
 title: Yoshiaki Yasumizu 安水 良明
 google_analytics: UA-141062523-1
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
-  
+  - jekyll-remote-theme
+
+logo: icons/OUM0939JPG.jpeg
+show_downloads: false
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "default"
