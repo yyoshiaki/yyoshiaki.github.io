@@ -79,7 +79,6 @@ Python, R, bash, CWL, Docker, GCP, git
 - Japanese Society of Neurology
 - Japanese Society for Neuroimmunology
 
-
 ## Publications
 - **Yasumizu Yoshiaki**, Ohkura Naganari, Murata Hisash, Kinoshita Makoto ... Morii Eiichi, Shintani Yasushi, Sakaguchi Shimon, Okuno Tatsusada, Mochizuki, Hideki Myasthenia gravis-specific aberrant neuromuscular gene expression by medullary thymic epithelial cells in thymoma. Nat. Commun. 13, 4230 (2022). [10.1038/s41467-022-31951-8](https://doi.org/10.1038/s41467-022-31951-8) [Press](https://resou.osaka-u.ac.jp/ja/research/2022/20220805_1)
 - Murata, Hisashi, Makoto Kinoshita, **Yoshiaki Yasumizu**, Daisuke Motooka, Shohei Beppu, Naoyuki Shiraishi, Yasuko Sugiyama, et al. 2022. "Cell-Free DNA Derived From Neutrophils Triggers Type 1 Interferon Signature in Neuromyelitis Optica Spectrum Disorder." *Neurology - Neuroimmunology Neuroinflammation* 9 (3): e1149. [https://doi.org/10.1212/NXI.0000000000001149](https://doi.org/10.1212/NXI.0000000000001149).
@@ -95,7 +94,6 @@ Python, R, bash, CWL, Docker, GCP, git
 - Naganari Ohkura, **Yoshiaki Yasumizu**, Yohko Kitagawa, Atsushi Tanaka, Yamami Nakamura, Daisuke Motooka, Shota Nakamura, Yukinori Okada, Shimon Sakaguchi, Regulatory T cell-specific epigenomic region variants are a key determinant of susceptibility to common autoimmune diseases. *Immunity*, 52(6), 1119-1132.e4. [https://doi.org/10.1016/j.immuni.2020.04.006](https://doi.org/10.1016/j.immuni.2020.04.006)
 - **Yoshiaki Yasumizu**, Saori Sakaue, Takahiro Konuma, Ken Suzuki, Koichi Matsuda, Yoshinori Murakami, Michiaki Kubo, Pier Francesco Palamara, Yoichiro Kamatani, Yukinori Okada, Genome-wide natural selection signatures are linked to genetic risk of modern phenotypes in the Japanese population. *Molecular Biology and Evolution*. (2020) [https://doi.org/10.1093/molbev/msaa005](https://doi.org/10.1093/molbev/msaa005) [Press](https://www.amed.go.jp/news/release_20200120.html)
 - Innate Myeloid Cell Subset-Specific Gene Expression Patterns in the Human Colon are Altered in Crohn’s Disease Patients. *Digestion* (2018). (co-first)
-
 
 ## Presentations
 
