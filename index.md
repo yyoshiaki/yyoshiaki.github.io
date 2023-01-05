@@ -12,7 +12,8 @@ lang: ja_JP
 ## Education and Employment
 - 2013 Apr - 2019 March Faculty of Medicine, Osaka University
 > MD Researcher Education Program (Shimon Sakaguchi's Lab)
-- 2019 - 2021 Junior Resident at Osaka University Hospital
+- 2019 - 2021 Junior Resident, Osaka University Hospital
+- 2019 - 2022 Visiting Academic Staff, Department of Neurology, Graduate School of Medicine, Osaka University
 - 2020 - Junior Researchers, Institute for Poen and Transdisciplinary Research Initiatives (OTRI) Integrated Frontier Research for Medical Science Division, Osaka University
 - 2021- Ph.D. Experimental Immunology, Immunology Frontier Research Center, Osaka University
 > Transdisciplinary Program for Biomedical Entrepreneurship and Innovation
