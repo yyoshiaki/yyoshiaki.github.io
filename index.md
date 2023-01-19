@@ -25,7 +25,7 @@ Python, R, bash, CWL, Docker, GCP, git
 ## Bioinformatics
 
 - Single-cell RNA-seq / spatial transcriptome data analysis
-- Bulk RNA-seq / ChIP-seq / WGBS
+- Bulk RNA-seq / ATAC-seq / ChIP-seq / WGBS
 - Human Genome Analysis
 - Machine Learning (deep learning, gradient boosting, MCMC and others)
 
@@ -45,6 +45,7 @@ Python, R, bash, CWL, Docker, GCP, git
 - Naganari Ohkura, **Yoshiaki Yasumizu (co-first)**, Yohko Kitagawa, Atsushi Tanaka, Yamami Nakamura, Daisuke Motooka, Shota Nakamura, Yukinori Okada, Shimon Sakaguchi, Regulatory T cell-specific epigenomic region variants are a key determinant of susceptibility to common autoimmune diseases. *Immunity*, 52(6), 1119-1132.e4. [https://doi.org/10.1016/j.immuni.2020.04.006](https://doi.org/10.1016/j.immuni.2020.04.006)
 
 ## Honors and Awards 
+- 2022 JSPS Ikushi Prize
 - 2021 Best Presentation Award, 50th Annual Meeting of the Japanese Society for Immunology
 - 2021 Young Neuroimmunologist Award, 33rd Annual Meeting of the Japanese Society for Neuroimmunology
 - 2021 Encouragement Award for Junior Residents, Osaka University Hospital
