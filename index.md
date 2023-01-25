@@ -10,6 +10,7 @@ lang: ja_JP
 安水 良明 / Yoshiaki Yasumizu, M.D.
 
 ## Education and Employment
+
 - 2013 Apr - 2019 March Faculty of Medicine, Osaka University
 > MD Researcher Education Program (Shimon Sakaguchi's Lab)
 - 2019 - 2021 Junior Resident, Osaka University Hospital
@@ -39,12 +40,15 @@ Python, R, bash, CWL, Docker, GCP, git
 - Library preparation and sequence using Nanopore Sequencers
 
 ## Selected Publications
+
 - **Yasumizu Yoshiaki**, Ohkura Naganari, Murata Hisash, Kinoshita Makoto ... Morii Eiichi, Shintani Yasushi, Sakaguchi Shimon, Okuno Tatsusada, Mochizuki, Hideki Myasthenia gravis-specific aberrant neuromuscular gene expression by medullary thymic epithelial cells in thymoma. Nat. Commun. 13, 4230 (2022). [10.1038/s41467-022-31951-8](https://doi.org/10.1038/s41467-022-31951-8) [Press](https://resou.osaka-u.ac.jp/ja/research/2022/20220805_1)
 - Yujiro Kidani, Wataru Nogami, **Yoshiaki Yasumizu**, Atsunari Kawashima, Atsushi Tanaka, ... Yuichiro Doki, Naganari Ohkura, Shimon Sakaguchi. CCR8-targeted specific depletion of clonally expanded Treg cells in tumor tissues evokes potent tumor immunity with long-lasting memory. *Proceedings of the National Academy of Sciences* Feb 2022, 119 (7) e2114282119; DOI: [10.1073/pnas.2114282119](https://doi.org/10.1073/pnas.2114282119).
 - **Yoshiaki Yasumizu**, Atsushi Hara, Shimon Sakaguchi, Naganari Ohkura, VIRTUS: a pipeline for comprehensive virus analysis from conventional RNA-seq data, *Bioinformatics*, (2020), btaa859, [https://doi.org/10.1093/bioinformatics/btaa859](https://doi.org/10.1093/bioinformatics/btaa859)
 - Naganari Ohkura, **Yoshiaki Yasumizu (co-first)**, Yohko Kitagawa, Atsushi Tanaka, Yamami Nakamura, Daisuke Motooka, Shota Nakamura, Yukinori Okada, Shimon Sakaguchi, Regulatory T cell-specific epigenomic region variants are a key determinant of susceptibility to common autoimmune diseases. *Immunity*, 52(6), 1119-1132.e4. [https://doi.org/10.1016/j.immuni.2020.04.006](https://doi.org/10.1016/j.immuni.2020.04.006)
 
 ## Honors and Awards 
+
+- 2022 SCGJ2022 Bioinformatics Hackathon Grand prize
 - 2022 Japan Society for the Promotion of Science Ikushi Prize
 - 2021 Best Presentation Award, 50th Annual Meeting of the Japanese Society for Immunology
 - 2021 Young Neuroimmunologist Award, 33rd Annual Meeting of the Japanese Society for Neuroimmunology
@@ -72,6 +76,7 @@ Python, R, bash, CWL, Docker, GCP, git
 - 2018 Statistical Genetics (Y. Okada Lab), Osaka University
 
 ## Leadership Experience
+
 - Osaka University Python Society founded [(link)](https://pythonoum.wordpress.com/)
 - AIMS - AI Medical Research Society - Executive [(link)](https://ai-medical.github.io/)
 
@@ -82,6 +87,7 @@ Python, R, bash, CWL, Docker, GCP, git
 - Japanese Society for Neuroimmunology
 
 ## Publications
+
 - **Yasumizu Yoshiaki**, Ohkura Naganari, Murata Hisash, Kinoshita Makoto ... Morii Eiichi, Shintani Yasushi, Sakaguchi Shimon, Okuno Tatsusada, Mochizuki, Hideki Myasthenia gravis-specific aberrant neuromuscular gene expression by medullary thymic epithelial cells in thymoma. Nat. Commun. 13, 4230 (2022). [10.1038/s41467-022-31951-8](https://doi.org/10.1038/s41467-022-31951-8) [Press](https://resou.osaka-u.ac.jp/ja/research/2022/20220805_1)
 - Murata, Hisashi, Makoto Kinoshita, **Yoshiaki Yasumizu**, Daisuke Motooka, Shohei Beppu, Naoyuki Shiraishi, Yasuko Sugiyama, et al. 2022. "Cell-Free DNA Derived From Neutrophils Triggers Type 1 Interferon Signature in Neuromyelitis Optica Spectrum Disorder." *Neurology - Neuroimmunology Neuroinflammation* 9 (3): e1149. [https://doi.org/10.1212/NXI.0000000000001149](https://doi.org/10.1212/NXI.0000000000001149).
 - Yujiro Kidani, Wataru Nogami, **Yoshiaki Yasumizu**, Atsunari Kawashima, Atsushi Tanaka, Yudai Sonoda, Yumi Tona, Kunitaka Nashiki, Reimi Matsumoto, Masaki Hagiwara, Motonao Osaki, Keiji Dohi, Takayuki Kanazawa, Azumi Ueyama, Mai Yoshikawa, Tetsuya Yoshida, Mitsunobu Matsumoto, Kanji Hojo, Satomi Shinonome, Hiroshi Yoshida, Michinari Hirata, Miya Haruna, Yamami Nakamura, Daisuke Motooka, Daisuke Okuzaki, Yasuko Sugiyama, Makoto Kinoshita, Tatsusada Okuno, Taigo Kato, Koji Hatano, Motohide Uemura, Ryoichi Imamura, Kazunori Yokoi, Atsushi Tanemura, Yasushi Shintani, Tadashi Kimura, Norio Nonomura, Hisashi Wada, Masaki Mori, Yuichiro Doki, Naganari Ohkura, Shimon Sakaguchi. CCR8-targeted specific depletion of clonally expanded Treg cells in tumor tissues evokes potent tumor immunity with long-lasting memory. *Proceedings of the National Academy of Sciences* Feb 2022, 119 (7) e2114282119; DOI: [10.1073/pnas.2114282119](https://doi.org/10.1073/pnas.2114282119).
@@ -111,6 +117,7 @@ Python, R, bash, CWL, Docker, GCP, git
 - 2017 The 5th NGS field meeting Poster presentation
 
 ## Publications (Japanese)
+
 - **安水良明**, 大倉永也 「制御性T細胞のシングルセル解析」 炎症と免疫 vol.30 no.6 p486-489(2022) 
 - **安水良明** 「ブラウザで完結するRNA-seq解析」 「10．iDEP，BioJupies，RaNA-seq ─ ウェブブラウザで完結するRNA-seq解析ツール」 実験医学増刊 vol.40 no.17 バイオDBとウェブツール　ラボで使える最新70選 知る・学ぶ・使う、バイオDX時代の羅針盤 (2022)[(link)](https://www.yodosha.co.jp/jikkenigaku/book/9784758104067/index.html)
 - **安水良明**, 大倉永也 「シングルセル解析」 皮膚科 vol.2 no.4 p427-432(2022) 

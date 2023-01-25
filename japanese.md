@@ -10,6 +10,7 @@ lang: ja_JP
 安水 良明 / Yoshiaki Yasumizu, M.D.
 
 ## 経歴
+
 - 2019年 3月 大阪大学 医学部医学科卒業
 - 2019年 3月 大阪大学 MD研究者育成プログラム 修了 (坂口研)
 - 2019年 4月 - 2021年 3月大阪大学医学部附属病院 初期研修医
@@ -19,6 +20,7 @@ lang: ja_JP
 - 2021年 4月 - 大阪大学 卓越大学院プログラム
 
 ## Publications
+
 - **Yasumizu Yoshiaki**, Ohkura Naganari, Murata Hisash, Kinoshita Makoto ... Morii Eiichi, Shintani Yasushi, Sakaguchi Shimon, Okuno Tatsusada, Mochizuki, Hideki Myasthenia gravis-specific aberrant neuromuscular gene expression by medullary thymic epithelial cells in thymoma. Nat. Commun. 13, 4230 (2022). [10.1038/s41467-022-31951-8](https://doi.org/10.1038/s41467-022-31951-8) [プレスリリース](https://resou.osaka-u.ac.jp/ja/research/2022/20220805_1)
 - Murata, Hisashi, Makoto Kinoshita, **Yoshiaki Yasumizu**, Daisuke Motooka, Shohei Beppu, Naoyuki Shiraishi, Yasuko Sugiyama, et al. 2022. “Cell-Free DNA Derived From Neutrophils Triggers Type 1 Interferon Signature in Neuromyelitis Optica Spectrum Disorder.” *Neurology - Neuroimmunology Neuroinflammation* 9 (3): e1149. [https://doi.org/10.1212/NXI.0000000000001149](https://doi.org/10.1212/NXI.0000000000001149).
 - Yujiro Kidani, Wataru Nogami, **Yoshiaki Yasumizu**, Atsunari Kawashima, Atsushi Tanaka, Yudai Sonoda, Yumi Tona, Kunitaka Nashiki, Reimi Matsumoto, Masaki Hagiwara, Motonao Osaki, Keiji Dohi, Takayuki Kanazawa, Azumi Ueyama, Mai Yoshikawa, Tetsuya Yoshida, Mitsunobu Matsumoto, Kanji Hojo, Satomi Shinonome, Hiroshi Yoshida, Michinari Hirata, Miya Haruna, Yamami Nakamura, Daisuke Motooka, Daisuke Okuzaki, Yasuko Sugiyama, Makoto Kinoshita, Tatsusada Okuno, Taigo Kato, Koji Hatano, Motohide Uemura, Ryoichi Imamura, Kazunori Yokoi, Atsushi Tanemura, Yasushi Shintani, Tadashi Kimura, Norio Nonomura, Hisashi Wada, Masaki Mori, Yuichiro Doki, Naganari Ohkura, Shimon Sakaguchi. CCR8-targeted specific depletion of clonally expanded Treg cells in tumor tissues evokes potent tumor immunity with long-lasting memory. *Proceedings of the National Academy of Sciences* Feb 2022, 119 (7) e2114282119; DOI: [10.1073/pnas.2114282119](https://doi.org/10.1073/pnas.2114282119).
@@ -48,6 +50,7 @@ lang: ja_JP
 
 ## 受賞等
 
+- SCGJ2022 バイオインフォマティクスハッカソン 最優秀賞
 - 2022年度 日本学術振興会 育志賞
 - 2021年 12月 第50回 日本免疫学会学術集会 ベストプレゼンテーション賞
 - 2021年 10月 第33回日本神経免疫学会学術集会 Young Neuroimmunologist Award
