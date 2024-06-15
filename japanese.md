@@ -18,8 +18,8 @@ lang: ja_JP
 - 2020年 4月 - 2024年 3月 大阪大学先導的学際研究機構生命医科学融合フロンティア研究部門 若手兼任教員
 - 2021年 4月 - 2024年 3月 大阪大学免疫学フロンティア研究センター 実験免疫学 博士課程
 - 2021年 4月 - 2024年 3月 大阪大学 卓越大学院プログラム
-- 2024年 4月　　-           日本学術振興会 海外特別研究員
-- 2024年 4月 -      　　　　　　　　　　　Associate Research Scientist, Yale School of Medicine, Department of Neurology
+- 2024年 4月 -           日本学術振興会 海外特別研究員
+- 2024年 4月 -           Associate Research Scientist, Yale School of Medicine, Department of Neurology
 
 ## Publications
 
