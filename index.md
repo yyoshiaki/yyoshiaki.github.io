@@ -15,9 +15,10 @@ lang: ja_JP
 > MD Researcher Education Program (Shimon Sakaguchi's Lab)
 - 2019 - 2021 Junior Resident, Osaka University Hospital
 - 2019 - 2022 Visiting Academic Staff, Department of Neurology, Graduate School of Medicine, Osaka University
-- 2020 - Junior Researchers, Institute for Open and Transdisciplinary Research Initiatives (OTRI) Integrated Frontier Research for Medical Science Division, Osaka University
-- 2021- Ph.D. Experimental Immunology, Immunology Frontier Research Center, Osaka University
+- 2020 - 2024 Junior Researchers, Institute for Open and Transdisciplinary Research Initiatives (OTRI) Integrated Frontier Research for Medical Science Division, Osaka University
+- 2021 - 2024 Ph.D. Course, Experimental Immunology, Immunology Frontier Research Center, Osaka University
 > Transdisciplinary Program for Biomedical Entrepreneurship and Innovation
+- 2024 -      Associate Research Scientist, Yale School of Medicine, Department of Neurology
 
 ## Programming and Computation
 
@@ -91,6 +92,7 @@ Python, R, bash, CWL, Docker, GCP, git
 
 ## Publications
 
+- **Yasumizu, Yoshiaki**, Masaki Hagiwara, Yuto Umezu, Hiroaki Fuji, Keiko Iwaisako, Masataka Asagiri, Shinji Uemoto, et al. 2024. “Neural-Net-Based Cell Deconvolution from DNA Methylation Reveals Tumor Microenvironment Associated with Cancer Prognosis.” NAR Cancer 6 (2). https://doi.org/10.1093/narcan/zcae022.
 - Wei Jessica, Jeonghyeon Moon, **Yoshiaki Yasumizu**, Le Zhang, ..., Tomokazu S. Sumida, Pierre-Paul Axisa, David A. Hafler. Systematic Analysis of Immune Changes after B-Cell Depletion in Autoimmune Multiple Sclerosis. bioRxiv (2024). [https://doi.org/10.1101/2024.02.07.576204](https://doi.org/10.1101/2024.02.07.576204).
 - **Yoshiaki Yasumizu** (co-correspondance), Makoto Kinoshita, Martin Jinye Zhang, Daisuke Motooka, Koichiro Suzuki, Daisuke Okuzaki, Satoshi Nojima, et al. 2024. Spatial Transcriptomics Elucidates Medulla Niche Supporting Germinal Center Response in Myasthenia Gravis Thymoma. bioRxiv (2024). [https://doi.org/10.1101/2024.02.05.579042](https://doi.org/10.1101/2024.02.05.579042).
 - Yasumizu, Yoshiaki, Daiki Takeuchi, Reo Morimoto, Yusuke Takeshima, Tatsusada Okuno, Makoto Kinoshita, Takayoshi Morita, et al. Single-Cell Transcriptome Landscape of Circulating CD4+ T Cell Populations in Autoimmune Diseases. Cell Genomics in Press (2024). [https://doi.org/10.1016/j.xgen.2023.100473](https://doi.org/10.1016/j.xgen.2023.100473). [Press](https://resou.osaka-u.ac.jp/en/research/2024/20240117_1)
@@ -126,6 +128,9 @@ Python, R, bash, CWL, Docker, GCP, git
 
 ## Publications (Japanese)
 
+- **安水良明**, 大倉永也 「シングルセル解析における実験デザイン」, 「CELLxGENEによるインタラクティブなデータ共有」 実験医学増刊 「実験デザインからわかる　シングルセル研究実践テキスト」 (20２４)
+- **安水良明** 「Chapter9　リードカウント以降の統合解析をウェブブラウザで行う 〜iDEP − ノーコードでRNA-Seq下流解析」 実験医学別冊 改訂版RNA-Seqデータ解析 WETラボのための鉄板レシピ (2023)
+- **安水良明** 「胸腺腫と重症筋無力症」 病理と臨床 １０月号 (2023) 
 - **安水良明**, 大倉永也 「制御性T細胞のシングルセル解析」 炎症と免疫 vol.30 no.6 p486-489(2022) 
 - **安水良明** 「ブラウザで完結するRNA-seq解析」 「10．iDEP，BioJupies，RaNA-seq ─ ウェブブラウザで完結するRNA-seq解析ツール」 実験医学増刊 vol.40 no.17 バイオDBとウェブツール　ラボで使える最新70選 知る・学ぶ・使う、バイオDX時代の羅針盤 (2022)[(link)](https://www.yodosha.co.jp/jikkenigaku/book/9784758104067/index.html)
 - **安水良明**, 大倉永也 「シングルセル解析」 皮膚科 vol.2 no.4 p427-432(2022) 
