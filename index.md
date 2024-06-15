@@ -1,13 +1,13 @@
 ---
 layout: default
-title: 安水 良明 (Yoshiaki Yasumizu, M.D.)
+title: 安水 良明 (Yoshiaki Yasumizu, M.D., Ph.D.)
 description: Immunology, Bioinformatics, Epigenetics, single cell
 lang: ja_JP
 ---
 
 # Profile
 
-安水 良明 / Yoshiaki Yasumizu, M.D.
+安水 良明 / Yoshiaki Yasumizu, M.D., Ph.D.
 
 ## Education and Employment
 
@@ -18,6 +18,7 @@ lang: ja_JP
 - 2020 - 2024 Junior Researchers, Institute for Open and Transdisciplinary Research Initiatives (OTRI) Integrated Frontier Research for Medical Science Division, Osaka University
 - 2021 - 2024 Ph.D. Course, Experimental Immunology, Immunology Frontier Research Center, Osaka University
 > Transdisciplinary Program for Biomedical Entrepreneurship and Innovation
+- 2024 -      Overseas Research Fellow, Japan Society for the Promotion of Science (JSPS)
 - 2024 -      Associate Research Scientist, Yale School of Medicine, Department of Neurology
 
 ## Programming and Computation
