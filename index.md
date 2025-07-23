@@ -42,9 +42,23 @@ Python, R, bash, CWL, Docker, GCP, git
 - Library preparation and sequence using Nanopore Sequencers
 
 ## Selected Publications
-
-- Wei Jessica, Jeonghyeon Moon, **Yoshiaki Yasumizu**, Le Zhang, ..., Tomokazu S. Sumida, Pierre-Paul Axisa, David A. Hafler. Systematic Analysis of Immune Changes after B-Cell Depletion in Autoimmune Multiple Sclerosis. bioRxiv (2024). [https://doi.org/10.1101/2024.02.07.576204](https://doi.org/10.1101/2024.02.07.576204).
-- **Yoshiaki Yasumizu** (co-correspondance), Makoto Kinoshita, Martin Jinye Zhang, Daisuke Motooka, Koichiro Suzuki, Daisuke Okuzaki, Satoshi Nojima, et al. 2024. Spatial Transcriptomics Elucidates Medulla Niche Supporting Germinal Center Response in Myasthenia Gravis Thymoma. bioRxiv (2024). [https://doi.org/10.1101/2024.02.05.579042](https://doi.org/10.1101/2024.02.05.579042).
+- Zhang L, **Yasumizu Y** (Co-first, Correspondance), Deerhake ME, Moon J, Buitrago-Pocasangre N, Russo A,
+Wang H, Zhu B, Seibyl JP, Reddy V, Wang Q, Spillantini MG, Posner DA, Clatworthy
+M, Sumida TS, Longbrake EE, Cedarbaum JM, Hafler DA. Inflamed Microglia like
+Macrophages in the Central Nervous System of Prodromal Parkinson's Disease.
+bioRxiv [Preprint]. 2025 May 21:2025.05.16.654530. doi:
+10.1101/2025.05.16.654530. PMID: 40475455; PMCID: PMC12139992.
+- **Yasumizu Y** (co-correspondance), Kinoshita M, Zhang MJ, Motooka D, Suzuki K, Nojima S, Koizumi N,
+Okuzaki D, Funaki S, Shintani Y, Ohkura N, Morii E, Okuno T, Mochizuki H.
+Spatial transcriptomics elucidates medulla niche supporting germinal center
+response in myasthenia gravis-associated thymoma. Cell Rep. 2024 Sep
+24;43(9):114677. doi: 10.1016/j.celrep.2024.114677. Epub 2024 Aug 23. PMID: 39180749.
+- Wei J, Moon J, **Yasumizu Y**, Zhang L, Radassi K, Buitrago-Pocasangre N,
+Deerhake ME, Strauli N, Chen CW, Herman A, Pedotti R, Raposo C, Yim I,
+Pappalardo J, Longbrake EE, Sumida TS, Axisa PP, Hafler DA. Transcriptomic
+profiling after B cell depletion reveals central and peripheral immune cell
+changes in multiple sclerosis. J Clin Invest. 2025 Mar 11;135(11):e182790. doi:
+10.1172/JCI182790. PMID: 40067358; PMCID: PMC12126227.
 - Yasumizu, Yoshiaki, Daiki Takeuchi, Reo Morimoto, Yusuke Takeshima, Tatsusada Okuno, Makoto Kinoshita, Takayoshi Morita, et al. Single-Cell Transcriptome Landscape of Circulating CD4+ T Cell Populations in Autoimmune Diseases. Cell Genomics in Press (2024). [https://doi.org/10.1016/j.xgen.2023.100473](https://doi.org/10.1016/j.xgen.2023.100473). [Press](https://resou.osaka-u.ac.jp/en/research/2024/20240117_1)
 - **Yasumizu Yoshiaki**, Ohkura Naganari, Murata Hisash, Kinoshita Makoto ... Morii Eiichi, Shintani Yasushi, Sakaguchi Shimon, Okuno Tatsusada, Mochizuki, Hideki Myasthenia gravis-specific aberrant neuromuscular gene expression by medullary thymic epithelial cells in thymoma. Nat. Commun. 13, 4230 (2022). [10.1038/s41467-022-31951-8](https://doi.org/10.1038/s41467-022-31951-8) [Press](https://resou.osaka-u.ac.jp/ja/research/2022/20220805_1)
 - Yujiro Kidani, Wataru Nogami, **Yoshiaki Yasumizu**, Atsunari Kawashima, Atsushi Tanaka, ... Yuichiro Doki, Naganari Ohkura, Shimon Sakaguchi. CCR8-targeted specific depletion of clonally expanded Treg cells in tumor tissues evokes potent tumor immunity with long-lasting memory. *Proceedings of the National Academy of Sciences* Feb 2022, 119 (7) e2114282119; DOI: [10.1073/pnas.2114282119](https://doi.org/10.1073/pnas.2114282119).
@@ -91,8 +105,48 @@ Python, R, bash, CWL, Docker, GCP, git
 - Japanese Society of Neurology
 - Japanese Society for Neuroimmunology
 
-## Publications
+## Peer Review
 
+- Clinical Immunology, Nature, Annals of Neurology, Frontier Neuroscience
+
+## Publications
+- Zhang L, **Yasumizu Y**, Deerhake ME, Moon J, Buitrago-Pocasangre N, Russo A,
+Wang H, Zhu B, Seibyl JP, Reddy V, Wang Q, Spillantini MG, Posner DA, Clatworthy
+M, Sumida TS, Longbrake EE, Cedarbaum JM, Hafler DA. Inflamed Microglia like
+Macrophages in the Central Nervous System of Prodromal Parkinson's Disease.
+bioRxiv [Preprint]. 2025 May 21:2025.05.16.654530. doi:
+10.1101/2025.05.16.654530. PMID: 40475455; PMCID: PMC12139992.
+- Harada A, **Yasumizu Y**, Harada T, Fumoto K, Sato A, Maehara N, Sada R,
+Matsumoto S, Nishina T, Takeda K, Morii E, Kayama H, Kikuchi A. Hypoxia-induced
+Wnt5a-secreting fibroblasts promote colon cancer progression. Nat Commun. 2025
+Apr 17;16(1):3653. doi: 10.1038/s41467-025-58748-9. PMID: 40246836; PMCID:
+PMC12006413.
+- Wei J, Moon J, **Yasumizu Y**, Zhang L, Radassi K, Buitrago-Pocasangre N,
+Deerhake ME, Strauli N, Chen CW, Herman A, Pedotti R, Raposo C, Yim I,
+Pappalardo J, Longbrake EE, Sumida TS, Axisa PP, Hafler DA. Transcriptomic
+profiling after B cell depletion reveals central and peripheral immune cell
+changes in multiple sclerosis. J Clin Invest. 2025 Mar 11;135(11):e182790. doi:
+10.1172/JCI182790. PMID: 40067358; PMCID: PMC12126227.
+- Yamamura R, Kinoshita M, **Yasumizu Y**, Yata T, Kihara K, Motooka D, Shiraishi
+N, Sugiyama Y, Beppu S, Murata H, Koizumi N, Sano I, Koda T, Okuno T, Mochizuki
+H. Transcriptome signature in the blood of neuromyelitis optica spectrum
+disorder under steroid tapering. Front Immunol. 2025 Feb 3;16:1508977. doi:
+10.3389/fimmu.2025.1508977. PMID: 39963140; PMCID: PMC11830620.
+- **Yasumizu Y**, Hafler DA. Elucidating the role of autoreactive T cells and B
+cells in autoimmune hepatitis. J Clin Invest. 2025 Jan 16;135(2):e188538. doi:
+10.1172/JCI188538. PMID: 39817449; PMCID: PMC11735092.
+- Mori S, Kohyama M, **Yasumizu Y**, Tada A, Tanzawa K, Shishido T, Kishida K, Jin
+H, Nishide M, Kawada S, Motooka D, Okuzaki D, Naito R, Nakai W, Kanda T, Murata
+T, Terao C, Ohmura K, Arase N, Kurosaki T, Fujimoto M, Suenaga T, Kumanogoh A,
+Sakaguchi S, Ogawa Y, Arase H. Neoself-antigens are the primary target for
+autoreactive T cells in human lupus. Cell. 2024 Oct 17;187(21):6071-6087.e20.
+doi: 10.1016/j.cell.2024.08.025. Epub 2024 Sep 13. PMID: 39276775.
+- **Yasumizu Y**, Kinoshita M, Zhang MJ, Motooka D, Suzuki K, Nojima S, Koizumi N,
+Okuzaki D, Funaki S, Shintani Y, Ohkura N, Morii E, Okuno T, Mochizuki H.
+Spatial transcriptomics elucidates medulla niche supporting germinal center
+response in myasthenia gravis-associated thymoma. Cell Rep. 2024 Sep
+24;43(9):114677. doi: 10.1016/j.celrep.2024.114677. Epub 2024 Aug 23. PMID: 39180749.
+- Nakai R, Yokota T, Tokunaga M, Takaishi M, Yokomizo T, Sudo T, Shi H, **Yasumizu Y**, Okuzaki D, Kokubu C, Tanaka S, Takaoka K, Yamanishi A, Yoshida J, Watanabe H, Kondoh G, Horie K, Hosen N, Sano S, Takeda J. A newly identified gene Ahed plays essential roles in murine haematopoiesis. Nat Commun. 2024 Jun 25;15(1):5090. doi: 10.1038/s41467-024-49252-7. PMID: 38918373; PMCID: PMC11199565.
 - **Yasumizu, Yoshiaki**, Masaki Hagiwara, Yuto Umezu, Hiroaki Fuji, Keiko Iwaisako, Masataka Asagiri, Shinji Uemoto, et al. 2024. “Neural-Net-Based Cell Deconvolution from DNA Methylation Reveals Tumor Microenvironment Associated with Cancer Prognosis.” NAR Cancer 6 (2). https://doi.org/10.1093/narcan/zcae022.
 - Wei Jessica, Jeonghyeon Moon, **Yoshiaki Yasumizu**, Le Zhang, ..., Tomokazu S. Sumida, Pierre-Paul Axisa, David A. Hafler. Systematic Analysis of Immune Changes after B-Cell Depletion in Autoimmune Multiple Sclerosis. bioRxiv (2024). [https://doi.org/10.1101/2024.02.07.576204](https://doi.org/10.1101/2024.02.07.576204).
 - **Yoshiaki Yasumizu** (co-correspondance), Makoto Kinoshita, Martin Jinye Zhang, Daisuke Motooka, Koichiro Suzuki, Daisuke Okuzaki, Satoshi Nojima, et al. 2024. Spatial Transcriptomics Elucidates Medulla Niche Supporting Germinal Center Response in Myasthenia Gravis Thymoma. bioRxiv (2024). [https://doi.org/10.1101/2024.02.05.579042](https://doi.org/10.1101/2024.02.05.579042).
